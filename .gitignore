@@ -6,4 +6,6 @@
 !/data-shift-cibc-vector/poster/cibc_vector_poster.pdf
 !/data-shift-cibc-vector/poster/cibc_vector_poster.pptx
 
-*.pptx
+# *.pptx
+.DS_Store
+Icon
