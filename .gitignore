@@ -1,6 +1,7 @@
 /data-shift-cibc-vector/images/*
 /data-shift-cibc-vector/poster/*
 /data-shift-cibc-vector/vector-tutorial-sessions/*
+/data-shift-cibc-vector/backup/*
 
 !/data-shift-cibc-vector/poster/cibc_vector_poster.jpg
 !/data-shift-cibc-vector/poster/cibc_vector_poster.pdf
