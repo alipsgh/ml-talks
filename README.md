@@ -20,4 +20,4 @@ You may find slides for some of my talks in this repo. Please note that you do n
   <img src="/iot-technologies-summit/ml-and-ai-to-empower-iot.jpg" width="50%" />
 </p>
 
-<sub>Ali Pesaranghader © 2019++</sub>
+<sub>Ali Pesaranghader © 2020++</sub>
