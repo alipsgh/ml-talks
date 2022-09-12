@@ -14,4 +14,10 @@ You may find slides for some of my talks in this repo. Please note that you do n
   <img src="/data-shift-cibc-vector/ad-cover/cibc_vector_ds.jpg" width="50%" />
 </p>
 
+* AI and ML to Empower IoT [[pdf](https://github.com/alipsgh/ml-talks/blob/master/iot-technologies-summit/ml-and-ai-to-empower-iot.pdf)]
+
+<p align="center">
+  <img src="/iot-technologies-summit/ml-and-ai-to-empower-iot.jpg" width="50%" />
+</p>
+
 <sub>Ali Pesaranghader © 2019++</sub>
